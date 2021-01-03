@@ -8,11 +8,11 @@
 #### Example result:
 As you can see the more we push the age attribute the more the subject loses the identity
 
-![Alt Text](https://media.giphy.com/media/5x1EuXO0sx60vKtJaA/giphy.gif)
+![](https://media.giphy.com/media/5x1EuXO0sx60vKtJaA/giphy.gif)
 
-![Alt Text](https://media.giphy.com/media/ItJDhcx6KB86Zb8URW/giphy.gif)
+![](https://media.giphy.com/media/ItJDhcx6KB86Zb8URW/giphy.gif)
 
 
 
-*english translation of the notebook coming soon*
+**english translation of the notebook coming soon*
 
