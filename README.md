@@ -8,9 +8,9 @@
 #### Example result:
 As you can see the more we push the age attribute the more the subject loses the identity
 
-![](https://media.giphy.com/media/5x1EuXO0sx60vKtJaA/giphy.gif)
+![](img/InterFaceGanDiCaprio.gif)
 
-![](https://media.giphy.com/media/ItJDhcx6KB86Zb8URW/giphy.gif)
+![](img/InterFaceGanJolie.gif)
 
 
 
