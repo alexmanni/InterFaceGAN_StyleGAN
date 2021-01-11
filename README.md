@@ -14,5 +14,3 @@ As you can see the more we push the age attribute the more the subject loses the
 
 
 
-**english translation of the notebook coming soon*
-
